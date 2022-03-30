@@ -11,7 +11,7 @@
 
 ## Description
 
-Créalisation d'un POC d'un environnement Big Data pour calcul distribué qui comprendra une première chaîne de traitement des données avec le preprocessing, et une étape de réduction de dimension avec Spark et le déploiement du modèle sur AWS.
+Création d'un POC d'un environnement Big Data pour calcul distribué qui comprendra une première chaîne de traitement des données avec le preprocessing, et une étape de réduction de dimension avec Spark et le déploiement du modèle sur AWS.
 
 ## Compétences
 
